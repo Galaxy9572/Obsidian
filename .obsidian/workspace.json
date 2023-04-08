@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "8205cc051d9a6890",
+    "type": "split",
+    "children": [
+      {
+        "id": "230cad603d654634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3904c5a240d940ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c56c3c3990675116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35270778d863d62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08bb448c03a810e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "123a5d9b4ee1ade3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e0a4da1f8d5316",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6b1f38b435d42aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "463ae096b082a652",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5ca08f9bc3c4fbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23f17a0519351e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0490eb73f50ae87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d29dddb32ea0429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29d40cc23de25aec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "994b535e68f6e0f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a938c6fbadbe5bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
+              }
+            }
+          },
+          {
+            "id": "055ac225a45bcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc9cbb8a0c5e06a8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3904c5a240d940ed",
+  "lastOpenFiles": [
+    "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "知识库/非关系型数据库/Redis/1、全局基本命令.md",
+    "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+    "Pasted image 20230407140103.png",
+    "Pasted image 20230407140050.png",
+    "知识库/非关系型数据库/Redis/2、基本数据类型",
+    "知识库/非关系型数据库/Redis",
+    "知识库/Swift+aa1a7720-1acf-4ea2-955e-c47221b7ab02.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/类型别名+c5cc0ab4-6515-497f-b3b7-acc737e2651e.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/image_MMxNUQMtoY.png",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.4、Optional+c894d46a-1d83-4db4-9329-19efac4122a6.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.3、元组+7da6dd8f-7105-4a62-bdab-49ab72ab3d80.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.2、浮点数+26dd15ab-ba3d-4064-9ba3-9b393bee0740.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.1、整数+ccb19d5c-2e14-4c6f-9ae1-30b1ae4ac3ff.md",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe",
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe.md",
+    "知识库/Swift/1、常量与变量+f615796e-4445-4480-a46d-d62c48bfe8fb.md",
+    "知识库/Swift",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.2、常用API+8afc804c-99fd-4815-84bf-808f0aba859c/image_Z0w9bxky_v.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.1、概述+b6ed60c2-6537-4633-a2f4-3e18a5c5eab5/image_4HN4OFtJTp.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.2、JMM特性+1ce201fc-7482-4cbb-a8fc-c130e3856f30/image_z2oSiF56Pr.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.2、JMM特性+1ce201fc-7482-4cbb-a8fc-c130e3856f30/image_hiYR_8THUL.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.2、JMM特性+1ce201fc-7482-4cbb-a8fc-c130e3856f30/image_WB-ZqiO8zM.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/5、中断+cc65811d-da6b-4ec9-92a3-560fd57fea2b/5.3、如何中断一个线程+c02da8c0-9478-4f81-9d92-ae9639b9ed54/image_nA3npLsoLM.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.4、为什么任何对象都可以成为锁+f5577a80-4019-430a-8f44-b1f9600b65e2/iShot_2022-07-20_21.26.35_0xsyaQN7yu.png",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.3、实战+08ddf745-db52-45ed-9aa8-463d3c9ff9ad.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.2、常用API+8afc804c-99fd-4815-84bf-808f0aba859c.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.2、常用API+8afc804c-99fd-4815-84bf-808f0aba859c",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.1、概述+b6ed60c2-6537-4633-a2f4-3e18a5c5eab5.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.1、概述+b6ed60c2-6537-4633-a2f4-3e18a5c5eab5",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/6、LockSupport+23938ae7-63b6-493a-aad2-4ef026ad0635/6.2、LockSupport+API+aeda4ea9-2921-4949-95d1-b4d697c5c0dd.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.3、多线程先行发生原则+happens-before++349a264e-937e-45c9-a2e4-69ecad1f8e4e.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/6、LockSupport+23938ae7-63b6-493a-aad2-4ef026ad0635/6.1、LockSupport概述+f6ac65aa-e96c-443e-aa82-b3bf470ac332.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.2、JMM特性+1ce201fc-7482-4cbb-a8fc-c130e3856f30.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.2、JMM特性+1ce201fc-7482-4cbb-a8fc-c130e3856f30",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/7、JMM+Java内存模型++a328e18c-3bdc-4a0c-8e5d-85e07dafa139/7.1、概述+8e7565b0-f267-4cfd-8409-bb390fca2357.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/5、中断+cc65811d-da6b-4ec9-92a3-560fd57fea2b/5.3、如何中断一个线程+c02da8c0-9478-4f81-9d92-ae9639b9ed54.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/5、中断+cc65811d-da6b-4ec9-92a3-560fd57fea2b/5.3、如何中断一个线程+c02da8c0-9478-4f81-9d92-ae9639b9ed54",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/5、中断+cc65811d-da6b-4ec9-92a3-560fd57fea2b/5.2、中断API+fbbc0f2d-6ec8-4354-ad5a-3e08c546c4cc.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/5、中断+cc65811d-da6b-4ec9-92a3-560fd57fea2b/5.1、中断概述+6530c24c-35e9-4c29-86a5-6fb066b391eb.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.6、可重入锁+递归锁++4f5d33dd-5aa0-486c-ab8c-8f07a8732e31.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.5、公平锁与非公平锁+5413fcd2-e3c6-4ecc-b751-8b7e128537c0.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.4、为什么任何对象都可以成为锁+f5577a80-4019-430a-8f44-b1f9600b65e2.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.4、为什么任何对象都可以成为锁+f5577a80-4019-430a-8f44-b1f9600b65e2",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.3、synchronized字节码+be3742ef-899f-44b1-80e1-fe903ff10a4f.md",
+    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/4、锁+f8cab188-1ba2-4c30-9462-a9b96622daa9/4.2、synchronized使用+da47f6a5-2601-4c21-9fd2-260b2bdbf10b"
+  ]
+}
