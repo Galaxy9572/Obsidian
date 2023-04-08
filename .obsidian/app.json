@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "附件"
 }

@@ -1,9 +1,9 @@
 {
   "commitMessage": "仓库手动备份: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
-  "autoPushInterval": 1,
-  "autoPullInterval": 1,
+  "autoSaveInterval": 5,
+  "autoPushInterval": 5,
+  "autoPullInterval": 5,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,

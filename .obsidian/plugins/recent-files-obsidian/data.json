@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "全局基本命令",
+      "path": "知识库/非关系型数据库/Redis/全局基本命令.md"
+    },
+    {
+      "basename": "2.5、有序集合(SortedSet、ZSet)",
+      "path": "知识库/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md"
+    },
+    {
+      "basename": "2.4、集合(Set)",
+      "path": "知识库/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md"
+    },
+    {
+      "basename": "2.3、哈希(Hash)",
+      "path": "知识库/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md"
+    },
+    {
+      "basename": "Redis基本数据类型思维导图",
+      "path": "知识库/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md"
+    },
+    {
+      "basename": "Pasted image 20230407140050",
+      "path": "附件/Pasted image 20230407140050.png"
+    },
+    {
+      "basename": "Pasted image 20230407140103",
+      "path": "附件/Pasted image 20230407140103.png"
+    },
+    {
+      "basename": "Pasted image 20230408111425",
+      "path": "附件/Pasted image 20230408111425.png"
+    },
+    {
+      "basename": "Pasted image 20230408111632",
+      "path": "附件/Pasted image 20230408111632.png"
+    },
+    {
+      "basename": "Pasted image 20230408111756",
+      "path": "附件/Pasted image 20230408111756.png"
+    },
+    {
+      "basename": "Pasted image 20230408111905",
+      "path": "附件/Pasted image 20230408111905.png"
+    },
+    {
+      "basename": "Pasted image 20230408111931",
+      "path": "附件/Pasted image 20230408111931.png"
+    },
+    {
       "basename": "2.2、列表(List)",
       "path": "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
     },
     {
       "basename": "2.1、字符串(String)",
       "path": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
-    },
-    {
-      "basename": "1、全局基本命令",
-      "path": "知识库/非关系型数据库/Redis/1、全局基本命令.md"
     }
   ],
   "omittedPaths": [],

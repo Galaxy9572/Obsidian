@@ -21,5 +21,8 @@
   "mado-miniflow@@toggle-explorer-indent": false,
   "mado-miniflow@@toggle-explorer-collapse": false,
   "mado-miniflow@@toggle-status-bar": false,
-  "mado-miniflow@@toggle-scrollbar": false
+  "mado-miniflow@@toggle-scrollbar": false,
+  "mado-miniflow@@toggle-wave-background": false,
+  "mado-miniflow@@toggle-tab-height": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false
 }
