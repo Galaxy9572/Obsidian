@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis基本数据类型",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
+      "basename": "2.2、列表(List)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
     },
     {
       "basename": "2.1、字符串(String)",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
     },
     {
-      "basename": "2.2、列表(List)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
+      "basename": "1、全局基本命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、全局基本命令.md"
+    },
+    {
+      "basename": "Redis基本数据类型",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
     },
     {
       "basename": "2.3、哈希(Hash)",
@@ -67,10 +71,6 @@
     {
       "basename": "3.1、UNITS",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md"
-    },
-    {
-      "basename": "1、全局基本命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/1、全局基本命令.md"
     },
     {
       "basename": "Pasted image 20230407140050",
