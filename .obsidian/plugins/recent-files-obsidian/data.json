@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "5.1、事务的基本命令",
+      "path": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
+    },
+    {
       "basename": "4、发布和订阅",
       "path": "知识库/非关系型数据库/Redis/4、发布和订阅.md"
     },

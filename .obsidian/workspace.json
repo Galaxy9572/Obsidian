@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d1575ac0775a8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/4、发布和订阅.md",
+                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/4、发布和订阅.md",
+                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/4、发布和订阅.md"
+                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
               }
             }
           },
@@ -247,12 +259,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5bf08009b2a094b",
+  "active": "3d1575ac0775a8f5",
   "lastOpenFiles": [
+    "附件/Pasted image 20230408122246.png",
+    "未命名.md",
+    "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+    "知识库/非关系型数据库/Redis/5、Redis事务",
+    "知识库/非关系型数据库/Redis/4、发布和订阅.md",
     "附件/Pasted image 20230408120737.png",
     "附件/Pasted image 20230408120709.png",
     "知识库/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
-    "知识库/非关系型数据库/Redis/4、发布和订阅.md",
     "知识库/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
     "知识库/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
     "知识库/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
@@ -275,7 +291,6 @@
     "知识库/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md",
     "附件/Pasted image 20230407140050.png",
     "附件/Pasted image 20230407140103.png",
-    "附件/Pasted image 20230408111425.png",
     "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "附件",
@@ -291,9 +306,6 @@
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.2、浮点数+26dd15ab-ba3d-4064-9ba3-9b393bee0740.md",
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.1、整数+ccb19d5c-2e14-4c6f-9ae1-30b1ae4ac3ff.md",
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe",
-    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe.md",
-    "知识库/Swift/1、常量与变量+f615796e-4445-4480-a46d-d62c48bfe8fb.md",
-    "知识库/Swift",
-    "知识库/Java/J.U.C+51f18b48-b442-495d-97d1-65ca9acc6f66/3、Future+4768780e-234f-42b2-9e13-f9f6032c925d/3.2、CompletableFuture+c405d9e8-889a-4d60-9ed9-6a62645f4dfc/3.2.2、常用API+8afc804c-99fd-4815-84bf-808f0aba859c"
+    "知识库/Swift"
   ]
 }
