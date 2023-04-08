@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6ea93fd56d00408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50bfd37706e66c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ce9a49eac0bb3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df4a4bbbace8db3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d3c07260ae449ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf3b149dc90adcd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5bf08009b2a094b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/非关系型数据库/Redis/4、发布和订阅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d1575ac0775a8f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
+                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
               }
             }
           },
@@ -240,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,14 +171,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "3d1575ac0775a8f5",
+  "active": "994b535e68f6e0f6",
   "lastOpenFiles": [
+    "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "附件/Pasted image 20230408122246.png",
     "未命名.md",
-    "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/非关系型数据库/Redis/5、Redis事务",
     "知识库/非关系型数据库/Redis/4、发布和订阅.md",
     "附件/Pasted image 20230408120737.png",
@@ -290,7 +207,6 @@
     "附件/Pasted image 20230408113705.png",
     "知识库/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md",
     "附件/Pasted image 20230407140050.png",
-    "附件/Pasted image 20230407140103.png",
     "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "附件",
