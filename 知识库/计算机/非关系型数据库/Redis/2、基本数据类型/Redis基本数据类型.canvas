@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"file","file":"知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md","id":"2a373e49933caace","x":-80,"y":-460,"width":397,"height":207,"color":"3"},
+		{"type":"file","file":"知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md","id":"89a3ce07381f253a","x":-81,"y":50,"width":400,"height":182,"color":"3"},
+		{"type":"file","file":"知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md","id":"7bdfdb8ea94c4e62","x":-78,"y":-200,"width":397,"height":207,"color":"3"},
+		{"type":"file","file":"知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md","id":"45ea2b0cc6d2b769","x":-81,"y":280,"width":400,"height":260,"color":"3"},
+		{"type":"file","file":"知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md","id":"4a4280b6f37bbbc1","x":-81,"y":600,"width":398,"height":340,"color":"3"},
+		{"type":"text","text":"### Redis基本数据类型","id":"ecd7f4167d68820f","x":-760,"y":111,"width":250,"height":60,"color":"4"},
+		{"id":"9ae173ecd3a1161a","x":400,"y":-460,"width":400,"height":207,"color":"5","type":"link","url":"https://redis.io/docs/data-types/strings/"},
+		{"id":"361c614d131484d3","x":400,"y":-200,"width":400,"height":207,"color":"5","type":"link","url":"https://redis.io/docs/data-types/lists/"}
+	],
+	"edges":[
+		{"id":"48f2d2e1e41888b0","fromNode":"ecd7f4167d68820f","fromSide":"right","toNode":"2a373e49933caace","toSide":"left"},
+		{"id":"209e7ccfe9e1889f","fromNode":"ecd7f4167d68820f","fromSide":"right","toNode":"7bdfdb8ea94c4e62","toSide":"left"},
+		{"id":"5aa8cef58014dc65","fromNode":"ecd7f4167d68820f","fromSide":"right","toNode":"89a3ce07381f253a","toSide":"left"},
+		{"id":"acdec2b923231219","fromNode":"ecd7f4167d68820f","fromSide":"right","toNode":"45ea2b0cc6d2b769","toSide":"left"},
+		{"id":"2731926a89ef3215","fromNode":"ecd7f4167d68820f","fromSide":"right","toNode":"4a4280b6f37bbbc1","toSide":"left"},
+		{"id":"dc08f231408ffa66","fromNode":"2a373e49933caace","fromSide":"right","toNode":"9ae173ecd3a1161a","toSide":"left"},
+		{"id":"eeab236d7c841487","fromNode":"7bdfdb8ea94c4e62","fromSide":"right","toNode":"361c614d131484d3","toSide":"left"}
+	]
+}

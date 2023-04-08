@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7069990fe46b25e1",
+        "id": "cef18b464ef3d7da",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1575ac0775a8f5",
+            "id": "5d088219f5c9d405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 291.5
   },
   "right": {
     "id": "23f17a0519351e97",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
+                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,55 +173,58 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:管理工作区布局": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "994b535e68f6e0f6",
+  "active": "5d088219f5c9d405",
   "lastOpenFiles": [
-    "知识库/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+    "Redis lists.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "[Redis lists.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
+    "知识库/摄影&后期",
+    "知识库/计算机",
+    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "附件/Pasted image 20230408122246.png",
     "未命名.md",
-    "知识库/非关系型数据库/Redis/5、Redis事务",
-    "知识库/非关系型数据库/Redis/4、发布和订阅.md",
+    "知识库/计算机/非关系型数据库/Redis/5、Redis事务",
+    "知识库/计算机/非关系型数据库/Redis/4、发布和订阅.md",
     "附件/Pasted image 20230408120737.png",
     "附件/Pasted image 20230408120709.png",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md",
-    "知识库/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md",
-    "知识库/非关系型数据库/Redis/1、全局基本命令.md",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
-    "知识库/非关系型数据库/Redis/3、配置文件",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md",
+    "知识库/计算机/非关系型数据库/Redis/1、全局基本命令.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件",
     "附件/Pasted image 20230408114124.png",
     "附件/Pasted image 20230408114113.png",
     "附件/Pasted image 20230408114056.png",
     "附件/Pasted image 20230408114038.png",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
     "附件/Pasted image 20230408113758.png",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
     "附件/Pasted image 20230408113705.png",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md",
     "附件/Pasted image 20230407140050.png",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
-    "知识库/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "附件",
     "未命名文件夹",
     "知识库/附件",
     "知识库/未命名文件夹",
-    "知识库/非关系型数据库/Redis/2、基本数据类型",
-    "知识库/非关系型数据库/Redis",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型",
+    "知识库/计算机/非关系型数据库/Redis",
     "知识库/Swift+aa1a7720-1acf-4ea2-955e-c47221b7ab02.md",
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/类型别名+c5cc0ab4-6515-497f-b3b7-acc737e2651e.md",
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.4、Optional+c894d46a-1d83-4db4-9329-19efac4122a6.md",
     "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.3、元组+7da6dd8f-7105-4a62-bdab-49ab72ab3d80.md",
-    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.2、浮点数+26dd15ab-ba3d-4064-9ba3-9b393bee0740.md",
-    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.1、整数+ccb19d5c-2e14-4c6f-9ae1-30b1ae4ac3ff.md",
-    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe",
-    "知识库/Swift"
+    "知识库/Swift/2、数据类型+80f47ccb-f564-4239-a3f1-2eda4130d6fe/2.2、浮点数+26dd15ab-ba3d-4064-9ba3-9b393bee0740.md"
   ]
 }

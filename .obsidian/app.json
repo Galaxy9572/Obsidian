@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "附件"
+  "attachmentFolderPath": "附件",
+  "strictLineBreaks": true
 }
