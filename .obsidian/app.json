@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "附件",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "livePreview": true
 }
