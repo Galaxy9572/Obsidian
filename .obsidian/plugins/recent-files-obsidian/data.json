@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "全局基本命令",
-      "path": "知识库/非关系型数据库/Redis/全局基本命令.md"
+      "basename": "4、发布和订阅",
+      "path": "知识库/非关系型数据库/Redis/4、发布和订阅.md"
+    },
+    {
+      "basename": "3.9、APPEND ONLY MODE",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md"
+    },
+    {
+      "basename": "3.8、SNAPSHOTTING",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md"
+    },
+    {
+      "basename": "3.7、LIMITS、MEMORY MANAGEMENT",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md"
+    },
+    {
+      "basename": "3.6、SECURITY",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md"
+    },
+    {
+      "basename": "3.5、GENERAL",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md"
+    },
+    {
+      "basename": "3.4、NETWORK",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md"
+    },
+    {
+      "basename": "3.3、MODULES",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md"
+    },
+    {
+      "basename": "3.2、INCLUDES",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
+    },
+    {
+      "basename": "3.1、UNITS",
+      "path": "知识库/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md"
+    },
+    {
+      "basename": "1、全局基本命令",
+      "path": "知识库/非关系型数据库/Redis/1、全局基本命令.md"
     },
     {
       "basename": "2.5、有序集合(SortedSet、ZSet)",
