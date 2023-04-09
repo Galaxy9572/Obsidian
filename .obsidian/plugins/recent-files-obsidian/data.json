@@ -5,8 +5,16 @@
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md"
     },
     {
+      "basename": "6.2、AOF(Append Only File)",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md"
+    },
+    {
       "basename": "6.1、RDB(Redis DataBase)",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md"
+    },
+    {
+      "basename": "5.1、事务的基本命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
     },
     {
       "basename": "Redis持久化",
@@ -15,10 +23,6 @@
     {
       "basename": "1、Redis命令",
       "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
-    },
-    {
-      "basename": "6.2、AOF(Append Only File)",
-      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md"
     },
     {
       "basename": "5.3、悲观锁、乐观锁",
@@ -31,10 +35,6 @@
     {
       "basename": "3.8、SNAPSHOTTING",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md"
-    },
-    {
-      "basename": "5.1、事务的基本命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
     },
     {
       "basename": "5.2、事务的错误处理",
