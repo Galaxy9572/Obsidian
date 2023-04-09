@@ -18,8 +18,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acf38223e19baae0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
+                "viewState": {
+                  "x": -5.58,
+                  "y": 1.8599999999999999,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "59269051e40f6fdb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
+                "viewState": {
+                  "x": -213.04626666666667,
+                  "y": -14.704533333333302,
+                  "zoom": -0.7117396178780329
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
               }
             }
           },
@@ -177,17 +208,20 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5d088219f5c9d405",
+  "active": "59269051e40f6fdb",
   "lastOpenFiles": [
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅",
     "知识库/计算机/非关系型数据库/Redis/1、Redis命令",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
     "附件/Pasted image 20230408204612.png",
     "附件/Pasted image 20230408204556.png",
@@ -221,10 +255,8 @@
     "附件/Pasted image 20230408114124.png",
     "附件/Pasted image 20230408114113.png",
     "附件/Pasted image 20230408114056.png",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型思维导图.md",
     "附件",
     "未命名文件夹",
-    "知识库/附件",
-    "知识库/Swift+aa1a7720-1acf-4ea2-955e-c47221b7ab02.md"
+    "知识库/附件"
   ]
 }
