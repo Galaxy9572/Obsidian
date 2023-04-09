@@ -13,18 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c1e2b41b954f3c0",
+            "id": "1035c12ac9e6ec17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md"
+              }
             }
           },
           {
@@ -182,11 +190,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1c1e2b41b954f3c0",
+  "active": "1035c12ac9e6ec17",
   "lastOpenFiles": [
-    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
     "附件/Pasted image 20230409132223.png",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
     "附件/Pasted image 20230409130252.png",
     "附件/Pasted image 20230409130233.png",
     "附件/Pasted image 20230409130220.png",
@@ -194,7 +204,7 @@
     "附件/Pasted image 20230409130145.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
     "附件/Pasted image 20230409125517.png",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
@@ -224,8 +234,6 @@
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "知识库/摄影&后期",
     "知识库/计算机",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务",

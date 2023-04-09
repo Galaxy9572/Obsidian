@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "7.3、Redis集群",
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md"
+    },
+    {
+      "basename": "Redis配置文件",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
+    },
+    {
       "basename": "7.2、哨兵模式(Sentinel)",
-      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md"
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md"
     },
     {
       "basename": "7.1、主从复制",
-      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md"
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md"
     },
     {
       "basename": "6.1、RDB(Redis DataBase)",
@@ -51,10 +59,6 @@
     {
       "basename": "2.1、字符串(String)",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
-    },
-    {
-      "basename": "Redis配置文件",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
     },
     {
       "basename": "3.3、MODULES",
