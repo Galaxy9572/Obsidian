@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d088219f5c9d405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "acf38223e19baae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md"
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md"
               }
             }
           },
@@ -189,11 +177,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5d088219f5c9d405",
+  "active": "acf38223e19baae0",
   "lastOpenFiles": [
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
+    "附件/Pasted image 20230409130252.png",
+    "附件/Pasted image 20230409130233.png",
+    "附件/Pasted image 20230409130220.png",
+    "附件/Pasted image 20230409130201.png",
+    "附件/Pasted image 20230409130145.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
+    "附件/Pasted image 20230409125517.png",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
     "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
@@ -225,19 +221,12 @@
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "Redis lists.md",
-    "[Redis lists.md",
     "知识库/摄影&后期",
     "知识库/计算机",
     "附件/Pasted image 20230408122246.png",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务",
-    "附件/Pasted image 20230408120737.png",
-    "附件/Pasted image 20230408120709.png",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件",
-    "附件/Pasted image 20230408114124.png",
-    "附件/Pasted image 20230408114113.png",
-    "附件/Pasted image 20230408114056.png",
     "附件",
-    "未命名文件夹",
-    "知识库/附件"
+    "未命名文件夹"
   ]
 }

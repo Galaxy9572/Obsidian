@@ -4,8 +4,8 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Redis",
@@ -22,9 +22,9 @@
   "lineSizeMultiplier": 2.99442138671875,
   "collapse-forces": false,
   "centerStrength": 0.578857421875,
-  "repelStrength": 10,
+  "repelStrength": 15.6949869791667,
   "linkStrength": 1,
-  "linkDistance": 369,
-  "scale": 1.3992572733559407,
+  "linkDistance": 431,
+  "scale": 1.3898333182343692,
   "close": true
 }
