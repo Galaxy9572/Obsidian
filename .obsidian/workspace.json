@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、全局基本命令.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、全局基本命令.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、全局基本命令.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、全局基本命令.md"
+                "file": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
               }
             }
           },
@@ -179,11 +179,13 @@
   },
   "active": "5d088219f5c9d405",
   "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
+    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅",
     "知识库/计算机/非关系型数据库/Redis/1、Redis命令",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
@@ -196,9 +198,7 @@
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md",
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、全局基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
