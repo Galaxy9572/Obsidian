@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "6.0、Redis持久化",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md"
+    },
+    {
       "basename": "6.1、RDB(Redis DataBase)",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md"
+    },
+    {
+      "basename": "Redis持久化",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
     },
     {
       "basename": "1、Redis命令",
@@ -19,10 +27,6 @@
     {
       "basename": "5.4、事务的特性",
       "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md"
-    },
-    {
-      "basename": "Redis持久化",
-      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
     },
     {
       "basename": "3.8、SNAPSHOTTING",
