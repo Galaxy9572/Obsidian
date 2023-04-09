@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c1e2b41b954f3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md"
+                "file": "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md"
               }
             }
           },
@@ -177,15 +190,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "acf38223e19baae0",
+  "active": "1c1e2b41b954f3c0",
   "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.2、哨兵模式(Sentinel).md",
     "附件/Pasted image 20230409130252.png",
     "附件/Pasted image 20230409130233.png",
     "附件/Pasted image 20230409130220.png",
     "附件/Pasted image 20230409130201.png",
     "附件/Pasted image 20230409130145.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构/7.1、主从复制.md",
     "附件/Pasted image 20230409125517.png",
     "知识库/计算机/非关系型数据库/Redis/7、Redis主从架构",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
@@ -223,7 +237,6 @@
     "Redis lists.md",
     "知识库/摄影&后期",
     "知识库/计算机",
-    "附件/Pasted image 20230408122246.png",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件",
     "附件",
