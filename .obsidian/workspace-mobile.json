@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f0a49c2db46482e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f3982b128d323d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a71ccff7ea2bc82e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+                "viewState": {
+                  "x": -937.4171588432934,
+                  "y": 100.76120826730136,
+                  "zoom": -1.291921440362731
+                }
+              }
+            }
+          },
+          {
+            "id": "be205804b16d8e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f8e9ed9b62fa835",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "533403d1b8107448",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ff75b1203e7cbb42",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "25c8038c772da6fd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c12317775d2add70",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "71612ee10b5324bc",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a880c20c266ff72f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9c47d4bfbed3bc6d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a58fffaa0ddf4e92",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "91b1bb063ea7b98f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
+          }
+        }
+      },
+      {
+        "id": "39dfab31ced3c9d5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "533403d1b8107448",
+  "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "知识库/计算机/非关系型数据库/Redis/4、发布和订阅.md"
+  ]
+}
