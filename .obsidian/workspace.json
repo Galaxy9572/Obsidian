@@ -38,14 +38,11 @@
             "id": "59269051e40f6fdb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
-                "viewState": {
-                  "x": -213.04626666666667,
-                  "y": -14.704533333333302,
-                  "zoom": -0.7117396178780329
-                }
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
+                "file": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md"
               }
             }
           },
@@ -210,10 +207,12 @@
   },
   "active": "59269051e40f6fdb",
   "lastOpenFiles": [
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
+    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
+    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
@@ -221,8 +220,6 @@
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅",
     "知识库/计算机/非关系型数据库/Redis/1、Redis命令",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
     "附件/Pasted image 20230408204612.png",
     "附件/Pasted image 20230408204556.png",
     "附件/Pasted image 20230408203810.png",

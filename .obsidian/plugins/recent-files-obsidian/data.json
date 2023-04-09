@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis持久化",
-      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
-    },
-    {
       "basename": "6.2、AOF(Append Only File)",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md"
     },
     {
       "basename": "6.1、RDB(Redis DataBase)",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md"
+    },
+    {
+      "basename": "5.3、悲观锁、乐观锁",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md"
+    },
+    {
+      "basename": "5.4、事务的特性",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md"
+    },
+    {
+      "basename": "Redis持久化",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
     },
     {
       "basename": "3.8、SNAPSHOTTING",
@@ -31,10 +39,6 @@
     {
       "basename": "2.1、字符串(String)",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
-    },
-    {
-      "basename": "5.4、事务的特性",
-      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md"
     },
     {
       "basename": "Redis配置文件",
@@ -59,10 +63,6 @@
     {
       "basename": "3.9、APPEND ONLY MODE",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md"
-    },
-    {
-      "basename": "5.3、悲观锁、乐观锁",
-      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md"
     },
     {
       "basename": "2.5、有序集合(SortedSet、ZSet)",
