@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "8.1、Docker安装Redis",
+      "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
+    },
+    {
+      "basename": "3.5、GENERAL",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md"
+    },
+    {
+      "basename": "3.6、SECURITY",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md"
+    },
+    {
+      "basename": "3.2、INCLUDES",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
+    },
+    {
+      "basename": "3.3、MODULES",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md"
+    },
+    {
       "basename": "7.2、哨兵模式(Sentinel)",
       "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Redis基本数据类型",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
-    },
-    {
-      "basename": "3.3、MODULES",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md"
     },
     {
       "basename": "Redis配置文件",
@@ -105,20 +121,8 @@
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md"
     },
     {
-      "basename": "3.6、SECURITY",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md"
-    },
-    {
-      "basename": "3.5、GENERAL",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md"
-    },
-    {
       "basename": "3.4、NETWORK",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md"
-    },
-    {
-      "basename": "3.2、INCLUDES",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
     },
     {
       "basename": "3.1、UNITS",
