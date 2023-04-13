@@ -26,11 +26,14 @@
             "id": "be205804b16d8e47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
-                "mode": "source",
-                "source": false
+                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+                "viewState": {
+                  "x": -27.5,
+                  "y": 240,
+                  "zoom": -2.2227887116949043
+                }
               }
             }
           }
@@ -109,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
+            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
           }
         }
       },
@@ -169,9 +172,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "533403d1b8107448",
+  "active": "be205804b16d8e47",
   "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+    "附件/Pasted image 20230409130252.png",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
+    "附件/Pasted image 20230409130201.png",
+    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
+    "附件/Pasted image 20230409130220.png",
+    "附件/Pasted image 20230409130145.png",
+    "附件/Pasted image 20230409132223.png",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
+    "附件/Pasted image 20230409130233.png",
+    "附件/Pasted image 20230409125517.png",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
