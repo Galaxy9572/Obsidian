@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc4f55b5ee1d9a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/软件测试/1、接口测试概述/2、目前的接口设计架构.md",
+                "file": "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/软件测试/1、接口测试概述/2、目前的接口设计架构.md",
+                "file": "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/软件测试/1、接口测试概述/2、目前的接口设计架构.md"
+                "file": "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介.md"
               }
             }
           },
@@ -214,11 +226,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "0debd91d2197fea1",
+  "active": "bc4f55b5ee1d9a61",
   "lastOpenFiles": [
+    "知识库/计算机/软件测试/1、接口测试概述/2、目前的接口设计架构.md",
+    "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介.md",
     "知识库/计算机/软件测试/2、JMeter",
     "知识库/计算机/软件测试/1、接口测试概述/1、接口测试分类.md",
-    "知识库/计算机/软件测试/1、接口测试概述/2、目前的接口设计架构.md",
     "知识库/计算机/软件测试/1、接口测试概述",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
@@ -263,7 +276,6 @@
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅",
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
   ]
 }
