@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1、Redis命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
+    },
+    {
       "basename": "8.1、Docker安装Redis",
       "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Redis持久化",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
-    },
-    {
-      "basename": "1、Redis命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
     },
     {
       "basename": "5.3、悲观锁、乐观锁",

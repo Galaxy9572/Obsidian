@@ -45,3 +45,7 @@
 ### 1.4.1、RDB命令
 
 ![[6.1、RDB(Redis DataBase)#6.1.4、RDB命令]]
+
+# 1.5、Docker安装Redis
+
+![[8.1、Docker安装Redis]]
