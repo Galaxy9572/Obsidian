@@ -243,8 +243,13 @@
   },
   "active": "5580eabd917d1a51",
   "lastOpenFiles": [
-    "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介/2.1、JMeter简介.md",
+    "IDEA/项目/药健康/App功能.md",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
+    "IDEA/项目/药健康",
+    "IDEA/项目",
+    "IDEA",
+    "未命名",
+    "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介/2.1、JMeter简介.md",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/未命名.md",
     "知识库/计算机/软件测试/1、接口测试概述/1.2、目前的接口设计架构.md",
     "知识库/计算机/软件测试/1、接口测试概述/1.1、接口测试分类.md",
@@ -269,7 +274,6 @@
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
     "附件/Pasted image 20230413164711.png",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
-    "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
     "效率/Mac/时间机器/1、Time Machine命令行工具.md",
     "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
@@ -278,9 +282,6 @@
     "附件/Pasted image 20230413163634.png",
     "附件/Pasted image 20230413163227.png",
     "附件/Pasted image 20230413163122.png",
-    "效率/Mac/时间机器",
-    "效率/Mac",
-    "效率",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
     "附件/Pasted image 20230409132223.png",
@@ -290,7 +291,6 @@
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
   ]
 }
