@@ -5,6 +5,10 @@
       "path": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas"
     },
     {
+      "basename": "Redis配置文件",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
+    },
+    {
       "basename": "App功能",
       "path": "IDEA/项目/药健康/App功能.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "2、手动删除 Time Machine 备份",
       "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
-    },
-    {
-      "basename": "Redis配置文件",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
     },
     {
       "basename": "7.1、主从复制",
