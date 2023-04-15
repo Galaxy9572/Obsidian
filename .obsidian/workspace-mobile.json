@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+                "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
                 "viewState": {
-                  "x": -27.5,
-                  "y": 240,
-                  "zoom": -2.2227887116949043
+                  "x": 149.44246521556005,
+                  "y": 312.49974908040633,
+                  "zoom": -1.62166730305889
                 }
               }
             }
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+            "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+            "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
+            "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas"
           }
         }
       },
@@ -172,8 +172,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be205804b16d8e47",
+  "active": "533403d1b8107448",
   "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+    "附件/Pasted image 20230413163654.png",
+    "附件/Pasted image 20230413175248.png",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
+    "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
+    "附件/Pasted image 20230413163634.png",
+    "附件/Pasted image 20230413163227.png",
+    "附件/Pasted image 20230413163122.png",
+    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
@@ -185,12 +194,9 @@
     "附件/Pasted image 20230409130145.png",
     "附件/Pasted image 20230409132223.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
-    "附件/Pasted image 20230409130233.png",
-    "附件/Pasted image 20230409125517.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅.md"
