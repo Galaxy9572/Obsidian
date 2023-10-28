@@ -1,4 +1,4 @@
-> 标签： #Mac #TimeMachine 
+> 标签： [[Mac]] [[TimeMachine]] 
 
 > 参考：[Time Machine 使用教程（六）：如何手动删除 Time Machine 备份 - 少数派](https://sspai.com/post/30929)
 

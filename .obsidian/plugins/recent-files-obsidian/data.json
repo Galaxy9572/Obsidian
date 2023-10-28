@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "1、Time Machine命令行工具",
+      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
+    },
+    {
+      "basename": "1、计算机网络概述",
+      "path": "知识库/计算机/计算机网络/1、计算机网络概述.md"
+    },
+    {
+      "basename": "4、发布和订阅",
+      "path": "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md"
+    },
+    {
+      "basename": "2.5、有序集合(SortedSet、ZSet)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md"
+    },
+    {
+      "basename": "1、Redis命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
+    },
+    {
+      "basename": "2.1、字符串(String)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
+    },
+    {
+      "basename": "1.2、重定向",
+      "path": "知识库/计算机/Linux/1、常用命令/1.2、重定向.md"
+    },
+    {
+      "basename": "1.1、lsof",
+      "path": "知识库/计算机/Linux/1、常用命令/1.1、lsof.md"
+    },
+    {
+      "basename": "2.3、哈希(Hash)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md"
+    },
+    {
+      "basename": "2.4、集合(Set)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md"
+    },
+    {
+      "basename": "2.2、列表(List)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
+    },
+    {
+      "basename": "App功能",
+      "path": "IDEA/项目/药健康/App功能.md"
+    },
+    {
       "basename": "2.2、组件概述",
       "path": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas"
     },
     {
       "basename": "Redis配置文件",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
-    },
-    {
-      "basename": "App功能",
-      "path": "IDEA/项目/药健康/App功能.md"
     },
     {
       "basename": "Redis基本数据类型",
@@ -53,10 +97,6 @@
       "path": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md"
     },
     {
-      "basename": "1、Redis命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
-    },
-    {
       "basename": "8.1、Docker安装Redis",
       "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
     },
@@ -83,10 +123,6 @@
     {
       "basename": "7.3、Redis集群",
       "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md"
-    },
-    {
-      "basename": "1、Time Machine命令行工具",
-      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
     },
     {
       "basename": "2、手动删除 Time Machine 备份",
@@ -133,32 +169,8 @@
       "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md"
     },
     {
-      "basename": "2.1、字符串(String)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
-    },
-    {
-      "basename": "2.2、列表(List)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
-    },
-    {
-      "basename": "4、发布和订阅",
-      "path": "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md"
-    },
-    {
       "basename": "3.9、APPEND ONLY MODE",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md"
-    },
-    {
-      "basename": "2.5、有序集合(SortedSet、ZSet)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md"
-    },
-    {
-      "basename": "2.4、集合(Set)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md"
-    },
-    {
-      "basename": "2.3、哈希(Hash)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md"
     },
     {
       "basename": "3.7、LIMITS、MEMORY MANAGEMENT",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20230408111632",
       "path": "附件/Pasted image 20230408111632.png"
-    },
-    {
-      "basename": "Pasted image 20230408111756",
-      "path": "附件/Pasted image 20230408111756.png"
-    },
-    {
-      "basename": "Pasted image 20230408111905",
-      "path": "附件/Pasted image 20230408111905.png"
-    },
-    {
-      "basename": "Pasted image 20230408111931",
-      "path": "附件/Pasted image 20230408111931.png"
     }
   ],
   "omittedPaths": [],

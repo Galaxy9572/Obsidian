@@ -71,14 +71,11 @@
             "id": "5580eabd917d1a51",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
-                "viewState": {
-                  "x": 169.68510638297883,
-                  "y": 455.51063829787256,
-                  "zoom": -0.8642007824623142
-                }
+                "file": "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,6 +133,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "548eec644f184df6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -158,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
+                "file": "效率/Mac/时间机器/1、Time Machine命令行工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
+                "file": "效率/Mac/时间机器/1、Time Machine命令行工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas"
+                "file": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
               }
             }
           },
@@ -243,6 +248,25 @@
   },
   "active": "5580eabd917d1a51",
   "lastOpenFiles": [
+    "知识库/计算机/计算机网络/1、计算机网络概述.md",
+    "附件/Pasted image 20231028212358.png",
+    "附件/Pasted image 20231028212320.png",
+    "附件/Pasted image 20231028211027.png",
+    "附件/Pasted image 20231028210641.png",
+    "附件/Pasted image 20231028210234.png",
+    "附件/Pasted image 20231028210021.png",
+    "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "附件/Pasted image 20231028205232.png",
+    "知识库/计算机/Linux/1、常用命令/1.2、重定向.md",
+    "知识库/计算机/Linux/1、常用命令/1.1、lsof.md",
+    "知识库/计算机/Linux/1、常用命令",
+    "知识库/计算机/Linux",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "IDEA/项目/药健康/App功能.md",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "IDEA/项目/药健康",
@@ -264,32 +288,13 @@
     "附件/Pasted image 20230413175248.png",
     "附件/Pasted image 20230413174809.png",
     "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
-    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题",
-    "知识库/计算机/非关系型数据库/Redis/9、分布式",
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
     "附件/Pasted image 20230413164711.png",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
-    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
-    "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
-    "附件/Pasted image 20230413163708.png",
-    "附件/Pasted image 20230413163654.png",
-    "附件/Pasted image 20230413163634.png",
-    "附件/Pasted image 20230413163227.png",
-    "附件/Pasted image 20230413163122.png",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
-    "附件/Pasted image 20230409132223.png",
-    "附件/Pasted image 20230409130252.png",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
   ]

@@ -4,5 +4,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "附件",
   "strictLineBreaks": true,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false
 }
