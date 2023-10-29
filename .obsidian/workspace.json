@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md"
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,12 +195,35 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "36efad5e4cad5f5f",
+  "active": "c6b1f38b435d42aa",
   "lastOpenFiles": [
+    "附件/Pasted image 20231029110312.png",
+    "附件/Pasted image 20231029110245.png",
+    "附件/Pasted image 20231029110219.png",
+    "附件/Pasted image 20231029110157.png",
+    "附件/Pasted image 20231029110110.png",
+    "附件/Pasted image 20231029105548.png",
+    "附件/Pasted image 20231029105234.png",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+    "附件/Pasted image 20231029104312.png",
+    "附件/Pasted image 20231029104025.png",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.5、域名&DNS.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md",
+    "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md",
+    "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.2、缓存穿透.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
+    "附件/Pasted image 20231029101542.png",
+    "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
     "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
     "附件/Pasted image 20231029100356.png",
-    "附件/Pasted image 20231029100327.png",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
@@ -210,41 +234,18 @@
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md",
-    "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
-    "附件/Pasted image 20231029092213.png",
-    "附件/Pasted image 20231029091955.png",
-    "附件/Pasted image 20231029090719.png",
     "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
     "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
     "知识库/计算机/计算机网络/计算机网络",
     "知识库/计算机/计算机网络/HTTP",
-    "附件/Pasted image 20231029085102.png",
-    "附件/Pasted image 20231029084512.png",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
-    "附件/Pasted image 20231028212358.png",
-    "附件/Pasted image 20231028212320.png",
-    "附件/Pasted image 20231028211027.png",
     "知识库/计算机/Linux/1、常用命令",
     "知识库/计算机/Linux",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "IDEA/项目/药健康",
     "IDEA/项目",
-    "IDEA",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
   ]
 }
