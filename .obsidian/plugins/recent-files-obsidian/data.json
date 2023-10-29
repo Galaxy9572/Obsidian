@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2、计算机网络体系结构",
-      "path": "知识库/计算机/计算机网络/2、计算机网络体系结构.md"
+      "basename": "未命名",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md"
     },
     {
       "basename": "1、计算机网络概述",
-      "path": "知识库/计算机/计算机网络/1、计算机网络概述.md"
+      "path": "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md"
+    },
+    {
+      "basename": "2、计算机网络体系结构",
+      "path": "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md"
+    },
+    {
+      "basename": "10.3、缓存击穿",
+      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md"
+    },
+    {
+      "basename": "2.1、字符串(String)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
+    },
+    {
+      "basename": "1、Redis命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
     },
     {
       "basename": "10.1、秒杀场景库存遗留",
@@ -85,14 +101,6 @@
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
     },
     {
-      "basename": "2.1、字符串(String)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
-    },
-    {
-      "basename": "1、Redis命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
-    },
-    {
       "basename": "2、手动删除 Time Machine 备份",
       "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
     },
@@ -135,10 +143,6 @@
     {
       "basename": "10.4、缓存雪崩",
       "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md"
-    },
-    {
-      "basename": "10.3、缓存击穿",
-      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md"
     },
     {
       "basename": "10.2、缓存穿透",
@@ -195,10 +199,6 @@
     {
       "basename": "5.2、事务的错误处理",
       "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md"
-    },
-    {
-      "basename": "Pasted image 20230407140050",
-      "path": "附件/Pasted image 20230407140050.png"
     }
   ],
   "omittedPaths": [],

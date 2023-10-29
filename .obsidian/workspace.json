@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cef18b464ef3d7da",
+        "id": "b12a1f8c5474fb8c",
         "type": "tabs",
         "children": [
           {
-            "id": "e59396f8a48026aa",
+            "id": "0a05a44c06f4fcc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a2adb05406ff213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/计算机/计算机网络/2、计算机网络体系结构.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/计算机网络/2、计算机网络体系结构.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/计算机网络/2、计算机网络体系结构.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/计算机网络/2、计算机网络体系结构.md"
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md"
               }
             }
           },
@@ -198,10 +185,21 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7a2adb05406ff213",
+  "active": "0a05a44c06f4fcc9",
   "lastOpenFiles": [
-    "知识库/计算机/计算机网络/1、计算机网络概述.md",
-    "知识库/计算机/计算机网络/2、计算机网络体系结构.md",
+    "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md",
+    "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
+    "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
+    "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md",
+    "知识库/计算机/计算机网络/计算机网络",
+    "知识库/计算机/计算机网络/HTTP",
+    "附件/Pasted image 20231029085102.png",
+    "附件/Pasted image 20231029084512.png",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
     "知识库/计算机/Linux/1、常用命令/1.1、lsof.md",
@@ -221,13 +219,9 @@
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
     "知识库/计算机/软件测试/1、接口测试概述/1.2、目前的接口设计架构.md",
     "Mac.md",
-    "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介/2.1、JMeter简介.md",
-    "TimeMachine.md",
     "附件/Pasted image 20231028212358.png",
     "附件/Pasted image 20231028212320.png",
     "附件/Pasted image 20231028211027.png",
@@ -241,14 +235,7 @@
     "IDEA/项目/药健康",
     "IDEA/项目",
     "IDEA",
-    "未命名",
-    "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介",
-    "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件",
-    "知识库/计算机/软件测试/2、JMeter",
-    "知识库/计算机/软件测试/1、接口测试概述",
     "附件/Pasted image 20230413175248.png",
-    "附件/Pasted image 20230413174809.png",
-    "附件/Pasted image 20230413164711.png",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
   ]
 }
