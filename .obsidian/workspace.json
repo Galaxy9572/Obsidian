@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md"
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md"
               }
             }
           },
@@ -197,9 +197,11 @@
   },
   "active": "0a05a44c06f4fcc9",
   "lastOpenFiles": [
+    "附件/Pasted image 20231029092213.png",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
     "附件/Pasted image 20231029091955.png",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
     "附件/Pasted image 20231029090719.png",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md",
     "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
@@ -232,14 +234,12 @@
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "附件/Pasted image 20231028212358.png",
     "附件/Pasted image 20231028212320.png",
     "附件/Pasted image 20231028211027.png",
     "附件/Pasted image 20231028210641.png",
     "附件/Pasted image 20231028210234.png",
     "附件/Pasted image 20231028210021.png",
-    "附件/Pasted image 20231028205232.png",
     "知识库/计算机/Linux/1、常用命令",
     "知识库/计算机/Linux",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",

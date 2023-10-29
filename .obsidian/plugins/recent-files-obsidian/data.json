@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1.4、HTTP相关协议",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md"
+    },
+    {
       "basename": "1.3、HTTP相关概念",
       "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redis持久化",
       "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
-    },
-    {
-      "basename": "5.3、悲观锁、乐观锁",
-      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md"
     }
   ],
   "omittedPaths": [],
