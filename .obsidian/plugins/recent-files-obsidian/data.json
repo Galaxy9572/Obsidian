@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/未命名.md"
+      "basename": "1.2、HTTP是什么",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md"
+    },
+    {
+      "basename": "1.1、HTTP的历史",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md"
     },
     {
       "basename": "1、计算机网络概述",
@@ -195,10 +199,6 @@
     {
       "basename": "5.4、事务的特性",
       "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md"
-    },
-    {
-      "basename": "5.2、事务的错误处理",
-      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md"
     }
   ],
   "omittedPaths": [],
