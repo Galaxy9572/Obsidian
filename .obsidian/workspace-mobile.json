@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
+                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +103,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "96be2fff5ee7b8a1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -117,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
+            "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
+            "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +156,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md"
+            "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
           }
         }
       },
@@ -163,6 +173,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,6 +189,8 @@
   },
   "active": "be205804b16d8e47",
   "lastOpenFiles": [
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md",
     "附件/Pasted image 20230408120709.png",
     "附件/Pasted image 20230413163227.png",
     "附件/Pasted image 20230408203810.png",
@@ -188,7 +203,6 @@
     "附件/Pasted image 20230408122246.png",
     "附件/Pasted image 20230408120737.png",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
-    "附件/Pasted image 20230409130220.png",
     "IDEA/项目/药健康/App功能.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
@@ -204,7 +218,6 @@
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas",
-    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md",
     "知识库/计算机/非关系型数据库/Redis/4、发布和订阅.md"
   ]
 }
