@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
+                "file": "效率/Git/Git 设置代理.md"
               }
             }
           },
@@ -197,6 +197,9 @@
   "active": "36efad5e4cad5f5f",
   "lastOpenFiles": [
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+    "效率/Git/Git 设置代理.md",
+    "效率/未命名/未命名",
+    "效率/Git",
     "附件/Pasted image 20231029110312.png",
     "附件/Pasted image 20231029110245.png",
     "附件/Pasted image 20231029110219.png",
@@ -242,8 +245,6 @@
     "知识库/计算机/Linux/1、常用命令",
     "知识库/计算机/Linux",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
-    "IDEA/项目/药健康",
-    "IDEA/项目",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
   ]
 }

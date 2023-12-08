@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 设置代理",
+      "path": "效率/Git/Git 设置代理.md"
+    },
+    {
       "basename": "1.6、HTTP报文",
       "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mac",
       "path": "Mac.md"
-    },
-    {
-      "basename": "2.1、JMeter简介",
-      "path": "知识库/计算机/软件测试/2、JMeter/2.1、JMeter简介/2.1、JMeter简介.md"
     }
   ],
   "omittedPaths": [],
