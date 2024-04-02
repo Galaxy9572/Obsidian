@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率/Git/Git 设置代理.md",
+                "file": "效率/iCloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率/Git/Git 设置代理.md",
+                "file": "效率/iCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "效率/Git/Git 设置代理.md",
+                "file": "效率/iCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "效率/Git/Git 设置代理.md"
+                "file": "效率/iCloud.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "36efad5e4cad5f5f",
   "lastOpenFiles": [
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
     "效率/Git/Git 设置代理.md",
+    "效率/iCloud.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
     "效率/未命名/未命名",
     "效率/Git",
     "附件/Pasted image 20231029110312.png",
@@ -234,7 +235,6 @@
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
-    "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
     "知识库/计算机/计算机网络/HTTP/2、HTTP高级",

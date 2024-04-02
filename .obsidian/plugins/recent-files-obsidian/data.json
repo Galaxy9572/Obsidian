@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "iCloud",
+      "path": "效率/iCloud.md"
+    },
+    {
       "basename": "Git 设置代理",
       "path": "效率/Git/Git 设置代理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1.2、目前的接口设计架构",
       "path": "知识库/计算机/软件测试/1、接口测试概述/1.2、目前的接口设计架构.md"
-    },
-    {
-      "basename": "Mac",
-      "path": "Mac.md"
     }
   ],
   "omittedPaths": [],
