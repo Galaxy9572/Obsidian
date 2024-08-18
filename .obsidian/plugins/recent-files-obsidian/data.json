@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 设置代理",
+      "path": "效率/Git/Git 设置代理.md"
+    },
+    {
       "basename": "常用命令",
       "path": "知识库/计算机/Docker/常用命令.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "iCloud",
       "path": "效率/iCloud.md"
-    },
-    {
-      "basename": "Git 设置代理",
-      "path": "效率/Git/Git 设置代理.md"
     },
     {
       "basename": "1.6、HTTP报文",

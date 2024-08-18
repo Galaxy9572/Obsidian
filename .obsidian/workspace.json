@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1662bf0c38e4690d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
+                "file": "效率/Git/Git 设置代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md"
+                "file": "效率/Git/Git 设置代理.md"
               }
             }
           },
@@ -175,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,13 +207,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c6b1f38b435d42aa",
+  "active": "1662bf0c38e4690d",
   "lastOpenFiles": [
-    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
     "知识库/计算机/Docker/常用命令.md",
+    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+    "效率/Git/Git 设置代理.md",
     "效率/iCloud.md",
     "知识库/计算机/Docker",
-    "效率/Git/Git 设置代理.md",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
     "效率/未命名/未命名",
     "效率/Git",
