@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Git 设置代理",
-      "path": "效率/Git/Git 设置代理.md"
-    },
-    {
       "basename": "常用命令",
       "path": "知识库/计算机/Docker/常用命令.md"
+    },
+    {
+      "basename": "Pasted image 20231029092213",
+      "path": "附件/Pasted image 20231029092213.png"
+    },
+    {
+      "basename": "Git 设置代理",
+      "path": "效率/Git/Git 设置代理.md"
     },
     {
       "basename": "1、Time Machine命令行工具",
@@ -179,10 +183,6 @@
     {
       "basename": "1、Redis命令",
       "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
-    },
-    {
-      "basename": "Pasted image 20231029092213",
-      "path": "附件/Pasted image 20231029092213.png"
     },
     {
       "basename": "1.1、lsof",
