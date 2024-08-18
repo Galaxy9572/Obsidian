@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率/iCloud.md",
+                "file": "知识库/计算机/Docker/常用命令.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d4de4dddd73b1e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率/iCloud.md",
+                "file": "知识库/计算机/Docker/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "效率/iCloud.md",
+                "file": "知识库/计算机/Docker/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "效率/iCloud.md"
+                "file": "知识库/计算机/Docker/常用命令.md"
               }
             }
           },
@@ -207,10 +197,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "8d4de4dddd73b1e9",
+  "active": "c6b1f38b435d42aa",
   "lastOpenFiles": [
-    "效率/Git/Git 设置代理.md",
+    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+    "知识库/计算机/Docker/常用命令.md",
     "效率/iCloud.md",
+    "知识库/计算机/Docker",
+    "效率/Git/Git 设置代理.md",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
     "效率/未命名/未命名",
     "效率/Git",
@@ -246,8 +239,6 @@
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
     "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
     "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
@@ -256,7 +247,6 @@
     "知识库/计算机/计算机网络/HTTP",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "知识库/计算机/Linux/1、常用命令",
-    "知识库/计算机/Linux",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
   ]

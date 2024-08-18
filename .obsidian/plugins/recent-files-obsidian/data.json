@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "常用命令",
+      "path": "知识库/计算机/Docker/常用命令.md"
+    },
+    {
+      "basename": "1、Time Machine命令行工具",
+      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
+    },
+    {
       "basename": "iCloud",
       "path": "效率/iCloud.md"
     },
@@ -185,20 +193,12 @@
       "path": "知识库/计算机/Linux/1、常用命令/1.2、重定向.md"
     },
     {
-      "basename": "1、Time Machine命令行工具",
-      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
-    },
-    {
       "basename": "Redis配置文件",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
     },
     {
       "basename": "2、手动删除 Time Machine 备份",
       "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
-    },
-    {
-      "basename": "1.2、目前的接口设计架构",
-      "path": "知识库/计算机/软件测试/1、接口测试概述/1.2、目前的接口设计架构.md"
     }
   ],
   "omittedPaths": [],
