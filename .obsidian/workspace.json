@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44a79a8b4604fea4",
+        "id": "7093258cc9a442c1",
         "type": "tabs",
         "children": [
           {
-            "id": "98267bf6537c5bc6",
+            "id": "d738155b29adb1af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Mac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -70,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -78,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "安装pyenv管理版本 的反向链接列表"
             }
           },
           {
@@ -118,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识库/计算机/Docker/常用命令.md",
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "安装pyenv管理版本 的出链列表"
             }
           },
           {
@@ -132,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -140,9 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识库/计算机/Docker/常用命令.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -150,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -158,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -170,11 +188,35 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "40cdf9aef224ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md"
+              },
+              "icon": "lucide-info",
+              "title": "安装pyenv管理版本的笔记属性"
+            }
+          },
+          {
+            "id": "46820ad4ae9a96d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -193,15 +235,26 @@
       "audio-recorder:开始/结束录音": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98267bf6537c5bc6",
+  "active": "46820ad4ae9a96d5",
   "lastOpenFiles": [
-    "附件/Pasted image 20231029092213.png",
+    "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md",
+    "知识库/计算机/Python/安装pyenv管理版本.md",
     "效率/Git/Git 设置代理.md",
-    "知识库/计算机/Docker/常用命令.md",
+    "知识库/计算机/Python/安装Anaconda.md",
+    "Excalidraw",
+    "知识库/计算机/Docker/Docker 常用基本命令.md",
+    "知识库/计算机/未命名.md",
+    "知识库/计算机/Python",
+    "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
     "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+    "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
+    "知识库/计算机/Docker/常用命令.md",
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
+    "附件/Pasted image 20231029092213.png",
     "效率/iCloud.md",
     "知识库/计算机/Docker",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
@@ -228,24 +281,14 @@
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.2、缓存穿透.md",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
-    "附件/Pasted image 20231029101542.png",
     "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
-    "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
     "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md",
-    "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md",
-    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md",
-    "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
     "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
     "知识库/计算机/计算机网络/计算机网络",
-    "知识库/计算机/计算机网络/HTTP",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
-    "知识库/计算机/Linux/1、常用命令",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
   ]

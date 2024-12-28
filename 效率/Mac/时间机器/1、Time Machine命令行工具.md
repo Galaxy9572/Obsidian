@@ -1,4 +1,8 @@
-> 标签： #Mac #TimeMachine 
+---
+tags:
+  - Mac
+  - TimeMachine
+---
 
 > 参考： [如何更好地清理 Time Machine 备份 - 少数派](https://sspai.com/post/59368#!)
 

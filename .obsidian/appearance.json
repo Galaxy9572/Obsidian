@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "translucency": true,
-  "cssTheme": "Big & Bold",
-  "baseFontSize": 16
+  "translucency": false,
+  "cssTheme": "Border",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "常用命令",
-      "path": "知识库/计算机/Docker/常用命令.md"
+      "basename": "Drawing 2024-12-28 19.36.32.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md"
+    },
+    {
+      "basename": "1.6、HTTP报文",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
+    },
+    {
+      "basename": "安装pyenv管理版本",
+      "path": "知识库/计算机/Python/安装pyenv管理版本.md"
+    },
+    {
+      "basename": "安装Anaconda",
+      "path": "知识库/计算机/Python/安装Anaconda.md"
+    },
+    {
+      "basename": "Docker 常用基本命令",
+      "path": "知识库/计算机/Docker/Docker 常用基本命令.md"
+    },
+    {
+      "basename": "2、手动删除 Time Machine 备份",
+      "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
+    },
+    {
+      "basename": "1、Time Machine命令行工具",
+      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
+    },
+    {
+      "basename": "8.1、Docker安装Redis",
+      "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
+    },
+    {
+      "basename": "1、Redis命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
     },
     {
       "basename": "Pasted image 20231029092213",
@@ -13,16 +45,8 @@
       "path": "效率/Git/Git 设置代理.md"
     },
     {
-      "basename": "1、Time Machine命令行工具",
-      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
-    },
-    {
       "basename": "iCloud",
       "path": "效率/iCloud.md"
-    },
-    {
-      "basename": "1.6、HTTP报文",
-      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
     },
     {
       "basename": "2.1、字符串(String)",
@@ -79,10 +103,6 @@
     {
       "basename": "9.1、Redis分布式锁",
       "path": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md"
-    },
-    {
-      "basename": "8.1、Docker安装Redis",
-      "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
     },
     {
       "basename": "7.3、Redis集群",
@@ -179,29 +199,11 @@
     {
       "basename": "2.2、列表(List)",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
-    },
-    {
-      "basename": "1、Redis命令",
-      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
-    },
-    {
-      "basename": "1.1、lsof",
-      "path": "知识库/计算机/Linux/1、常用命令/1.1、lsof.md"
-    },
-    {
-      "basename": "1.2、重定向",
-      "path": "知识库/计算机/Linux/1、常用命令/1.2、重定向.md"
-    },
-    {
-      "basename": "Redis配置文件",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas"
-    },
-    {
-      "basename": "2、手动删除 Time Machine 备份",
-      "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
