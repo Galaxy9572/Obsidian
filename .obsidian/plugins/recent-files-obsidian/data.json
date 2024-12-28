@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "知识库/计算机/Python/未命名.md"
+    },
+    {
       "basename": "Git 设置代理",
       "path": "效率/Git/Git 设置代理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2.3、哈希(Hash)",
       "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md"
-    },
-    {
-      "basename": "2.2、列表(List)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.2、列表(List).md"
     }
   ],
   "omittedPaths": [],
