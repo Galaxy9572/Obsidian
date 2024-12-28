@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 设置代理",
+      "path": "效率/Git/Git 设置代理.md"
+    },
+    {
+      "basename": "安装pyenv管理版本",
+      "path": "知识库/计算机/Python/安装pyenv管理版本.md"
+    },
+    {
       "basename": "Drawing 2024-12-28 19.36.32.excalidraw",
       "path": "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md"
     },
     {
       "basename": "1.6、HTTP报文",
       "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
-    },
-    {
-      "basename": "安装pyenv管理版本",
-      "path": "知识库/计算机/Python/安装pyenv管理版本.md"
     },
     {
       "basename": "安装Anaconda",
@@ -39,10 +43,6 @@
     {
       "basename": "Pasted image 20231029092213",
       "path": "附件/Pasted image 20231029092213.png"
-    },
-    {
-      "basename": "Git 设置代理",
-      "path": "效率/Git/Git 设置代理.md"
     },
     {
       "basename": "iCloud",
