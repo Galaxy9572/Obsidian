@@ -181,8 +181,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -205,10 +205,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "知识库/计算机/Python/安装pyenv管理版本.md"
+                "file": "知识库/AI/大模型提示词编写教程.md"
               },
               "icon": "lucide-info",
-              "title": "安装pyenv管理版本的笔记属性"
+              "title": "大模型提示词编写教程的笔记属性"
             }
           },
           {
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -245,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d738155b29adb1af",
+  "active": "46820ad4ae9a96d5",
   "lastOpenFiles": [
     "知识库/AI/AI学习资料.md",
     "知识库/AI/大模型提示词编写教程.md",

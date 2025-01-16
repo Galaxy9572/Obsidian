@@ -1,11 +1,13 @@
 /* 创建自定义提示框样式 */
 .callout[data-callout="pin"] {
-    --callout-color: 255, 145, 0;
+    --callout-color: 245, 108, 108;
+    /* 更红的图标颜色 */
     --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path><path d="m19 12-7-4-7 4"></path><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"></path></svg>');
-    background-color: rgb(255, 247, 237);
-    border: 1px solid rgba(var(--callout-color), 0.2);
-    border-radius: 20px;
-    padding: 1rem;
+    background-color: rgb(254, 240, 240);
+    /* 更浅的粉红色背景 */
+    border: 1px solid rgba(var(--callout-color), 0.1);
+    border-radius: 4px;
+    padding: 0.8rem 1rem;
     margin: 1rem 0;
 }
 
