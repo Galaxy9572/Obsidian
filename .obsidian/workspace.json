@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46820ad4ae9a96d5",
+  "active": "a938c6fbadbe5bf3",
   "lastOpenFiles": [
     "知识库/AI/AI学习资料.md",
     "知识库/AI/大模型提示词编写教程.md",
