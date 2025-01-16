@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "askGPT4",
+      "path": "textgenerator/templates/vision/askGPT4.md"
+    },
+    {
       "basename": "大模型提示词编写教程",
       "path": "知识库/AI/大模型提示词编写教程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.3、MODULES",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md"
-    },
-    {
-      "basename": "3.2、INCLUDES",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
     }
   ],
   "omittedPaths": [],

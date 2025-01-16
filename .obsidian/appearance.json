@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#ffae00",
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Red Graphite",
+  "cssTheme": "Cupertino",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [

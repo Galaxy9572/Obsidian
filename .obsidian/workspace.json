@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/AI/大模型提示词编写教程.md",
+                "file": "textgenerator/templates/vision/askGPT4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型提示词编写教程"
+              "title": "askGPT4"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/AI/大模型提示词编写教程.md"
+                "file": "textgenerator/templates/vision/askGPT4.md"
               },
               "icon": "lucide-list",
-              "title": "大模型提示词编写教程 的大纲"
+              "title": "askGPT4 的大纲"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -222,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -242,13 +242,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "a938c6fbadbe5bf3",
+  "active": "d738155b29adb1af",
   "lastOpenFiles": [
-    "知识库/AI/AI学习资料.md",
     "知识库/AI/大模型提示词编写教程.md",
+    "textgenerator/templates/vision/askGPT4.md",
+    "textgenerator/templates/vision/describe_Images.md",
+    "textgenerator/templates/vision",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "知识库/AI/AI学习资料.md",
     "Mac.md",
     "知识库/AI",
     "TimeMachine.md",
@@ -263,13 +282,8 @@
     "知识库/计算机/Python",
     "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
     "效率/Mac/时间机器/1、Time Machine命令行工具.md",
-    "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
-    "知识库/计算机/Docker/常用命令.md",
-    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
     "附件/Pasted image 20231029092213.png",
-    "效率/iCloud.md",
     "知识库/计算机/Docker",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
     "效率/未命名/未命名",
     "效率/Git",
     "附件/Pasted image 20231029110312.png",
@@ -279,21 +293,9 @@
     "附件/Pasted image 20231029110110.png",
     "附件/Pasted image 20231029105548.png",
     "附件/Pasted image 20231029105234.png",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
     "附件/Pasted image 20231029104312.png",
     "附件/Pasted image 20231029104025.png",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.5、域名&DNS.md",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md",
-    "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md",
-    "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
-    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
-    "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
-    "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
-    "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
