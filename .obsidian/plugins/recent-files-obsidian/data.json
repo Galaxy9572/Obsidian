@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "askGPT4",
-      "path": "textgenerator/templates/vision/askGPT4.md"
-    },
-    {
       "basename": "大模型提示词编写教程",
       "path": "知识库/AI/大模型提示词编写教程.md"
+    },
+    {
+      "basename": "askGPT4",
+      "path": "textgenerator/templates/vision/askGPT4.md"
     },
     {
       "basename": "AI学习资料",
