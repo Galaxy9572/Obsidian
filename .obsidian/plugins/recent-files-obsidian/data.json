@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "大模型提示词编写教程",
+      "path": "知识库/AI/大模型提示词编写教程.md"
+    },
+    {
+      "basename": "AI学习资料",
+      "path": "知识库/AI/AI学习资料.md"
+    },
+    {
+      "basename": "Mac",
+      "path": "Mac.md"
+    },
+    {
+      "basename": "TimeMachine",
+      "path": "TimeMachine.md"
+    },
+    {
       "basename": "未命名",
       "path": "知识库/计算机/Python/未命名.md"
     },
@@ -183,26 +199,11 @@
     {
       "basename": "3.2、INCLUDES",
       "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
-    },
-    {
-      "basename": "3.1、UNITS",
-      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.1、UNITS.md"
-    },
-    {
-      "basename": "Redis基本数据类型",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas"
-    },
-    {
-      "basename": "2.4、集合(Set)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.4、集合(Set).md"
-    },
-    {
-      "basename": "2.3、哈希(Hash)",
-      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.3、哈希(Hash).md"
     }
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"

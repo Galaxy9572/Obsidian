@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/计算机/Python/安装PaddleOCR.md",
+                "file": "知识库/AI/大模型提示词编写教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "安装PaddleOCR"
+              "title": "大模型提示词编写教程"
             }
           }
         ]
@@ -158,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "知识库/AI/大模型提示词编写教程.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "大模型提示词编写教程 的大纲"
             }
           },
           {
@@ -169,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -179,8 +181,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -220,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,8 +247,13 @@
   },
   "active": "d738155b29adb1af",
   "lastOpenFiles": [
-    "效率/Git/Git 设置代理.md",
+    "知识库/AI/AI学习资料.md",
+    "知识库/AI/大模型提示词编写教程.md",
+    "Mac.md",
+    "知识库/AI",
+    "TimeMachine.md",
     "知识库/计算机/Python/安装PaddleOCR.md",
+    "效率/Git/Git 设置代理.md",
     "知识库/计算机/Python/安装pyenv管理版本.md",
     "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md",
     "知识库/计算机/Python/安装Anaconda.md",
@@ -283,15 +290,10 @@
     "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md",
     "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
     "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md",
-    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.2、缓存穿透.md",
-    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
-    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
-    "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
     "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
     "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
     "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
     "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
-    "知识库/计算机/计算机网络/计算机网络",
     "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
     "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
     "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
