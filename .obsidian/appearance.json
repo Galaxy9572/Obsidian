@@ -4,5 +4,8 @@
   "translucency": false,
   "cssTheme": "Things",
   "baseFontSize": 16,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "custom-callout"
+  ]
 }
