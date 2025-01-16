@@ -5,5 +5,7 @@
   "attachmentFolderPath": "附件",
   "strictLineBreaks": true,
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showRibbon": true,
+  "showInlineTitle": true
 }
