@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7093258cc9a442c1",
+        "id": "67f0eeb81d9b2183",
         "type": "tabs",
         "children": [
           {
-            "id": "d738155b29adb1af",
+            "id": "8a6c1fe7c318c778",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "textgenerator/templates/vision/askGPT4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "askGPT4"
+              "title": "新标签页"
             }
           }
         ]
@@ -158,11 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "textgenerator/templates/vision/askGPT4.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "askGPT4 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -247,10 +241,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d738155b29adb1af",
+  "active": "8a6c1fe7c318c778",
   "lastOpenFiles": [
-    "知识库/AI/大模型提示词编写教程.md",
     "textgenerator/templates/vision/askGPT4.md",
+    "知识库/AI/大模型提示词编写教程.md",
     "textgenerator/templates/vision/describe_Images.md",
     "textgenerator/templates/vision",
     "textgenerator/templates/default/summarizeLarge.md",
