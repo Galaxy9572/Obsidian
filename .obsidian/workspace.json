@@ -11,10 +11,14 @@
             "id": "cb9e74aca412a252",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1、Time Machine命令行工具"
             }
           }
         ]
@@ -224,6 +228,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Open Copilot Chat": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -239,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46820ad4ae9a96d5",
+  "active": "cb9e74aca412a252",
   "lastOpenFiles": [
-    "copilot-conversations/这篇文章说的什么@20250116_185048.md",
     "conflict-files-obsidian-git.md",
+    "copilot-conversations/这篇文章说的什么@20250116_185048.md",
     "Mac.md",
     "知识库/AI/AI学习资料.md",
     "知识库/AI/大模型提示词编写教程.md",

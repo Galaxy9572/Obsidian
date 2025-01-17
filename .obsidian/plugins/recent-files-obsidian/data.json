@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "1、Time Machine命令行工具",
+      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
     },
     {
       "basename": "这篇文章说的什么@20250116_185048",
@@ -43,10 +43,6 @@
     {
       "basename": "2、手动删除 Time Machine 备份",
       "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
-    },
-    {
-      "basename": "1、Time Machine命令行工具",
-      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
     },
     {
       "basename": "8.1、Docker安装Redis",
@@ -203,6 +199,7 @@
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
