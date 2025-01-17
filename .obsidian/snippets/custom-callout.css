@@ -1,0 +1,43 @@
+/* 创建自定义提示框样式 */
+.callout[data-callout="pin"] {
+    --callout-color: 254, 240, 240;
+    /* 更红的图标颜色 */
+    --callout-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path><path d="m19 12-7-4-7 4"></path><path d="M5 12v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"></path></svg>');
+    background-color: rgb(254, 240, 240);
+    /* 更浅的粉红色背景 */
+    border: 1px solid rgba(var(--callout-color), 0.1);
+    border-radius: 4px;
+    padding: 0.8rem 1rem;
+    margin: 1rem 0;
+}
+
+/* 隐藏标题文字，只显示图标 */
+.callout[data-callout="pin"] .callout-title-inner {
+    display: none;
+}
+
+/* 提示框图标样式 */
+.callout[data-callout="pin"] .callout-icon {
+    width: 18px;
+    height: 18px;
+    color: rgb(var(--callout-color));
+}
+
+/* 提示框内容样式 */
+.callout[data-callout="pin"] .callout-content {
+    color: rgb(102, 102, 102);
+    font-size: 0.95em;
+    line-height: 1.6;
+    margin-left: 28px;
+    /* 给内容添加缩进，与图标对齐 */
+}
+
+/* 提示框内链接样式 */
+.callout[data-callout="pin"] a {
+    color: rgb(var(--callout-color));
+    text-decoration: none;
+}
+
+.callout[data-callout="pin"] a:hover {
+    text-decoration: underline;
+}

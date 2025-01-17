@@ -1,8 +1,13 @@
 {
-  "accentColor": "",
-  "theme": "system",
+  "accentColor": "#ffae00",
+  "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Things",
+  "cssTheme": "Cupertino",
   "baseFontSize": 16,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "custom-callout"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true
 }
