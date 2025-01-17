@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "8205cc051d9a6890",
+    "type": "split",
+    "children": [
+      {
+        "id": "2385a13d1dc8ebb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a90eb4519c0927a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mac"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08bb448c03a810e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "123a5d9b4ee1ade3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0debd91d2197fea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c6b1f38b435d42aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Mac",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "463ae096b082a652",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a5ca08f9bc3c4fbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "548eec644f184df6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "23f17a0519351e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0490eb73f50ae87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d29dddb32ea0429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "安装pyenv管理版本 的反向链接列表"
+            }
+          },
+          {
+            "id": "29d40cc23de25aec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "安装pyenv管理版本 的出链列表"
+            }
+          },
+          {
+            "id": "994b535e68f6e0f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a938c6fbadbe5bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "055ac225a45bcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dc9cbb8a0c5e06a8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "dbcb131202a1930e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "40cdf9aef224ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md"
+              },
+              "icon": "lucide-info",
+              "title": "安装pyenv管理版本的笔记属性"
+            }
+          },
+          {
+            "id": "46820ad4ae9a96d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9a90eb4519c0927a",
+  "lastOpenFiles": [
+    "知识库/计算机/Python/安装PaddleOCR.md",
+    "效率/Git/Git 设置代理.md",
+    "知识库/计算机/Python/安装pyenv管理版本.md",
+    "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md",
+    "知识库/计算机/Python/安装Anaconda.md",
+    "Excalidraw",
+    "知识库/计算机/Docker/Docker 常用基本命令.md",
+    "知识库/计算机/未命名.md",
+    "知识库/计算机/Python",
+    "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
+    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+    "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md",
+    "知识库/计算机/Docker/常用命令.md",
+    "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md",
+    "附件/Pasted image 20231029092213.png",
+    "效率/iCloud.md",
+    "知识库/计算机/Docker",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md",
+    "效率/未命名/未命名",
+    "效率/Git",
+    "附件/Pasted image 20231029110312.png",
+    "附件/Pasted image 20231029110245.png",
+    "附件/Pasted image 20231029110219.png",
+    "附件/Pasted image 20231029110157.png",
+    "附件/Pasted image 20231029110110.png",
+    "附件/Pasted image 20231029105548.png",
+    "附件/Pasted image 20231029105234.png",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md",
+    "附件/Pasted image 20231029104312.png",
+    "附件/Pasted image 20231029104025.png",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.5、域名&DNS.md",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md",
+    "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md",
+    "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.2、缓存穿透.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md",
+    "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md",
+    "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+    "知识库/计算机/计算机网络/HTTP/3、HTTP安全",
+    "知识库/计算机/计算机网络/HTTP/2、HTTP高级",
+    "知识库/计算机/计算机网络/HTTP/1、HTTP基础",
+    "知识库/计算机/计算机网络/计算机网络",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+    "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
+  ]
+}

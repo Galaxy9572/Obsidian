@@ -1,0 +1,12 @@
+{
+  "obsidian-copy-block-link:copy-embed-to-block": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}
