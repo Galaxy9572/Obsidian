@@ -2,7 +2,7 @@
   "accentColor": "#ffae00",
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Cupertino",
+  "cssTheme": "Typora-Vue",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
