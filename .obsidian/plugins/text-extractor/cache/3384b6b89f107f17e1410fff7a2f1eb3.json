@@ -1,1 +1,0 @@
-{"path":"附件/Pasted image 20231029100356.png","text":"192.168.44.168:6379> mset name lucy age 20 address china {error) CROSSSLOT Keys in request don't hash to the same slot 192.168.44.168:6379> mset name{user} lucy age{user} 20 B R U=To h N =Tk f=To IR o =1 o) N [ T: 5 B o Yo~ =Y BNF-) i K= )20 1< P 22 R N ST S S Y 15 0K","libVersion":"0.3.2","langs":"eng"}
