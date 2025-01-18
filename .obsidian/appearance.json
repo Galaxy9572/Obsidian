@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ffae00",
+  "theme": "system",
+  "translucency": false,
+  "cssTheme": "Primary",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "custom-callout"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": true
+}

@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "大模型提示词编写教程",
+      "path": "知识库/AI/大模型提示词编写教程.md"
+    },
+    {
+      "basename": "AI学习资料",
+      "path": "知识库/AI/AI学习资料.md"
+    },
+    {
+      "basename": "2、手动删除 Time Machine 备份",
+      "path": "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md"
+    },
+    {
+      "basename": "1、Time Machine命令行工具",
+      "path": "效率/Mac/时间机器/1、Time Machine命令行工具.md"
+    },
+    {
+      "basename": "安装PaddleOCR",
+      "path": "知识库/计算机/Python/安装PaddleOCR.md"
+    },
+    {
+      "basename": "1.6、HTTP报文",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.6、HTTP报文.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "知识库/计算机/Python/未命名.md"
+    },
+    {
+      "basename": "Git 设置代理",
+      "path": "效率/Git/Git 设置代理.md"
+    },
+    {
+      "basename": "安装pyenv管理版本",
+      "path": "知识库/计算机/Python/安装pyenv管理版本.md"
+    },
+    {
+      "basename": "Drawing 2024-12-28 19.36.32.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md"
+    },
+    {
+      "basename": "安装Anaconda",
+      "path": "知识库/计算机/Python/安装Anaconda.md"
+    },
+    {
+      "basename": "Docker 常用基本命令",
+      "path": "知识库/计算机/Docker/Docker 常用基本命令.md"
+    },
+    {
+      "basename": "8.1、Docker安装Redis",
+      "path": "知识库/计算机/非关系型数据库/Redis/8、Redis&Docker/8.1、Docker安装Redis.md"
+    },
+    {
+      "basename": "1、Redis命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/1、Redis命令/1、Redis命令.md"
+    },
+    {
+      "basename": "Pasted image 20231029092213",
+      "path": "附件/Pasted image 20231029092213.png"
+    },
+    {
+      "basename": "iCloud",
+      "path": "效率/iCloud.md"
+    },
+    {
+      "basename": "2.1、字符串(String)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.1、字符串(String).md"
+    },
+    {
+      "basename": "2.5、有序集合(SortedSet、ZSet)",
+      "path": "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/2.5、有序集合(SortedSet、ZSet).md"
+    },
+    {
+      "basename": "1.1、HTTP的历史",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.1、HTTP的历史.md"
+    },
+    {
+      "basename": "1.4、HTTP相关协议",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.4、HTTP相关协议.md"
+    },
+    {
+      "basename": "1.3、HTTP相关概念",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.3、HTTP相关概念.md"
+    },
+    {
+      "basename": "1.5、域名&DNS",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.5、域名&DNS.md"
+    },
+    {
+      "basename": "1.2、HTTP是什么",
+      "path": "知识库/计算机/计算机网络/HTTP/1、HTTP基础/1.2、HTTP是什么.md"
+    },
+    {
+      "basename": "2、计算机网络体系结构",
+      "path": "知识库/计算机/计算机网络/计算机网络/2、计算机网络体系结构.md"
+    },
+    {
+      "basename": "1、计算机网络概述",
+      "path": "知识库/计算机/计算机网络/计算机网络/1、计算机网络概述.md"
+    },
+    {
+      "basename": "10.1、秒杀场景库存遗留",
+      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.1、秒杀场景库存遗留.md"
+    },
+    {
+      "basename": "10.2、缓存穿透",
+      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.2、缓存穿透.md"
+    },
+    {
+      "basename": "10.3、缓存击穿",
+      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.3、缓存击穿.md"
+    },
+    {
+      "basename": "10.4、缓存雪崩",
+      "path": "知识库/计算机/非关系型数据库/Redis/10、Redis常见问题/10.4、缓存雪崩.md"
+    },
+    {
+      "basename": "9.1、Redis分布式锁",
+      "path": "知识库/计算机/非关系型数据库/Redis/9、分布式/9.1、Redis分布式锁.md"
+    },
+    {
+      "basename": "7.3、Redis集群",
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.3、Redis集群.md"
+    },
+    {
+      "basename": "7.2、哨兵模式(Sentinel)",
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.2、哨兵模式(Sentinel).md"
+    },
+    {
+      "basename": "7.1、主从复制",
+      "path": "知识库/计算机/非关系型数据库/Redis/7、Redis高可用/7.1、主从复制.md"
+    },
+    {
+      "basename": "6.2、AOF(Append Only File)",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.2、AOF(Append Only File).md"
+    },
+    {
+      "basename": "6.1、RDB(Redis DataBase)",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.1、RDB(Redis DataBase).md"
+    },
+    {
+      "basename": "6.0、Redis持久化",
+      "path": "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/6.0、Redis持久化.md"
+    },
+    {
+      "basename": "5.4、事务的特性",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.4、事务的特性.md"
+    },
+    {
+      "basename": "5.3、悲观锁、乐观锁",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.3、悲观锁、乐观锁.md"
+    },
+    {
+      "basename": "5.2、事务的错误处理",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.2、事务的错误处理.md"
+    },
+    {
+      "basename": "5.1、事务的基本命令",
+      "path": "知识库/计算机/非关系型数据库/Redis/5、Redis事务/5.1、事务的基本命令.md"
+    },
+    {
+      "basename": "4、发布和订阅",
+      "path": "知识库/计算机/非关系型数据库/Redis/4、发布和订阅/4、发布和订阅.md"
+    },
+    {
+      "basename": "3.9、APPEND ONLY MODE",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.9、APPEND ONLY MODE.md"
+    },
+    {
+      "basename": "3.8、SNAPSHOTTING",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.8、SNAPSHOTTING.md"
+    },
+    {
+      "basename": "3.7、LIMITS、MEMORY MANAGEMENT",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.7、LIMITS、MEMORY MANAGEMENT.md"
+    },
+    {
+      "basename": "3.6、SECURITY",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.6、SECURITY.md"
+    },
+    {
+      "basename": "3.5、GENERAL",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.5、GENERAL.md"
+    },
+    {
+      "basename": "3.4、NETWORK",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.4、NETWORK.md"
+    },
+    {
+      "basename": "3.3、MODULES",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.3、MODULES.md"
+    },
+    {
+      "basename": "3.2、INCLUDES",
+      "path": "知识库/计算机/非关系型数据库/Redis/3、配置文件/3.2、INCLUDES.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": null,
+  "openType": "tab"
+}

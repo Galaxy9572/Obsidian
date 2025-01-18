@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "附件",
+  "strictLineBreaks": true,
+  "livePreview": true,
+  "readableLineLength": false,
+  "showRibbon": true,
+  "showInlineTitle": true
+}

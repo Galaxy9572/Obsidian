@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "8205cc051d9a6890",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd29a9914b889ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9e74aca412a252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/AI/大模型提示词编写教程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大模型提示词编写教程"
+            }
+          },
+          {
+            "id": "70360e9bc0678ee6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-visualizer",
+              "state": {},
+              "icon": "git-fork",
+              "title": "Smart connections visualizer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08bb448c03a810e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "123a5d9b4ee1ade3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0debd91d2197fea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c6b1f38b435d42aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a5ca08f9bc3c4fbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "548eec644f184df6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "23f17a0519351e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0490eb73f50ae87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d29dddb32ea0429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "安装pyenv管理版本 的反向链接列表"
+            }
+          },
+          {
+            "id": "29d40cc23de25aec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "安装pyenv管理版本 的出链列表"
+            }
+          },
+          {
+            "id": "994b535e68f6e0f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a938c6fbadbe5bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "055ac225a45bcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dc9cbb8a0c5e06a8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "dbcb131202a1930e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "40cdf9aef224ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "知识库/计算机/Python/安装pyenv管理版本.md"
+              },
+              "icon": "lucide-info",
+              "title": "安装pyenv管理版本的笔记属性"
+            }
+          },
+          {
+            "id": "46820ad4ae9a96d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ca0d73bd96a8f383",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "5681b5a45ece35ac",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "e0ac4f9c88bcb323",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 601
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "46820ad4ae9a96d5",
+  "lastOpenFiles": [
+    "知识库/AI/大模型提示词编写教程.md",
+    "知识库/AI/AI学习资料.md",
+    "效率/Mac/时间机器/2、手动删除 Time Machine 备份.md",
+    "效率/Mac/时间机器/1、Time Machine命令行工具.md",
+    "conflict-files-obsidian-git.md",
+    "copilot-conversations/这篇文章说的什么@20250116_185048.md",
+    "Mac.md",
+    "知识库/AI",
+    "textgenerator/templates/vision/describe_Images.md",
+    "textgenerator/templates/vision/askGPT4.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/vision",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "copilot-conversations",
+    "知识库/计算机/Python/安装PaddleOCR.md",
+    "效率/Git/Git 设置代理.md",
+    "知识库/计算机/Python/安装pyenv管理版本.md",
+    "Excalidraw/Drawing 2024-12-28 19.36.32.excalidraw.md",
+    "知识库/计算机/Python/安装Anaconda.md",
+    "Excalidraw",
+    "知识库/计算机/Docker/Docker 常用基本命令.md",
+    "知识库/计算机/Python",
+    "附件/Pasted image 20231029092213.png",
+    "知识库/计算机/Docker",
+    "效率/未命名/未命名",
+    "附件/Pasted image 20231029110312.png",
+    "附件/Pasted image 20231029110245.png",
+    "附件/Pasted image 20231029110219.png",
+    "附件/Pasted image 20231029110157.png",
+    "附件/Pasted image 20231029110110.png",
+    "附件/Pasted image 20231029105548.png",
+    "附件/Pasted image 20231029105234.png",
+    "附件/Pasted image 20231029104312.png",
+    "附件/Pasted image 20231029104025.png",
+    "知识库/计算机/非关系型数据库/Redis/2、基本数据类型/Redis基本数据类型.canvas",
+    "知识库/计算机/非关系型数据库/Redis/3、配置文件/Redis配置文件.canvas",
+    "知识库/计算机/软件测试/2、JMeter/2.2、JMeter组件/2.2、组件概述.canvas",
+    "知识库/计算机/非关系型数据库/Redis/6、Redis持久化/Redis持久化.canvas"
+  ]
+}
